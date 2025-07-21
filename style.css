@@ -1,0 +1,50 @@
+body {
+  background-color: #ffe6f0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.invitation {
+  max-width: 600px;
+  margin: 40px auto;
+  background: #fff0f5;
+  border: 2px solid #ff99cc;
+  border-radius: 20px;
+  padding: 30px;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(255, 105, 180, 0.4);
+}
+
+.invitation h1 {
+  color: #ff1493;
+  font-size: 32px;
+}
+
+.invitation h2 {
+  color: #db7093;
+  font-size: 26px;
+}
+
+.invitation p {
+  font-size: 18px;
+  color: #333;
+}
+
+.details p {
+  margin: 10px 0;
+  font-weight: bold;
+}
+
+.cake {
+  width: 80%;
+  max-width: 400px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.rsvp {
+  margin-top: 20px;
+  font-style: italic;
+  color: #cc0066;
+}
